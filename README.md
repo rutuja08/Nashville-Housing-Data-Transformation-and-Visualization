@@ -1,6 +1,6 @@
 # Nashville-Housing-Data-Transformation-and-Visualization
 
-he Nashville Housing data has been cleaned using SQL queries with the SQL Server Management Studio.
+The Nashville Housing data has been cleaned using SQL queries with the SQL Server Management Studio.
 
 Following operations are performed on the data:
 
